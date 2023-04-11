@@ -9,4 +9,5 @@ Fibrous Filters - theory graphs of aerosol penetration across cylindrical fibers
 - electrostatic attraction
 - polarization
 
-Includes charges on Boltzmann-equilibrated spherical particles versus diameter size.
+Includes aeroCharge - charges on Boltzmann-equilibrated spherical particles versus diameter size.
+Includes fibrous_filter_theory.xlsx - main penetration calcuation file based on important physical parameters and universal constants.
